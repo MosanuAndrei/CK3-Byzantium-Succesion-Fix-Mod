@@ -1,1 +1,1 @@
-# Ck3_Byzantium_Succesion_Fix
+# Byzantium Succesion Fix for Crusader Kings 3
