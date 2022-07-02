@@ -5,6 +5,7 @@
   To fix this i have changed the "Change Capital to Constantinople" decision to also change succession type back to primogeniture. This way whenever an emperor is ousted his successor will keep primogeniture.
 
   I have also nerfed the Theodosian Walls for balancing reasions:
+      
       -Duchy Levy Size from 15% to 10%
       -Duchy Holding Taxes from 15% to 10%
       -County Levy Size from 300% to 100%
