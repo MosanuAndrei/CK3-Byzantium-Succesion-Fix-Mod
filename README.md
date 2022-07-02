@@ -11,4 +11,4 @@
       -County Levy Size from 300% to 100%
       -County Holding Taxes from 300% to 100%
       -Development Growth Factor from +0.3 to +0.2
-      -Removed Monthly Development 50%
+      -Removed Monthly Development +50%
